@@ -1,2 +1,2 @@
-# Estuda
+# Estudar
 Olá vamos estudar 
